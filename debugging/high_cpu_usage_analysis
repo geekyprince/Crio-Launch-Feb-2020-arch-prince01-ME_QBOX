@@ -1,0 +1,4 @@
+vsftpd_v4 has high cpu usage 
+htop command used
+when we run server and give upload command cpu usage is fluctuates just near 100%
+ 
