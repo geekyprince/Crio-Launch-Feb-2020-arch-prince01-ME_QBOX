@@ -1,0 +1,2 @@
+113,969,1273,1936
+Packets being resent after having been either lost or damaged.quality is better as packets not send are sent again by tcp as acknowledgement is received

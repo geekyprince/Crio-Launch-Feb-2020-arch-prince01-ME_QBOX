@@ -1,0 +1,1 @@
+the two IP addresses reported by ping and ifconfig are different as ping returns external ip address and ifconfig return internal ip address

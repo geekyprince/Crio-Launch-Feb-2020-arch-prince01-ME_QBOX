@@ -1,0 +1,5 @@
+2,3,4,5,6
+0.4120,0.8515,2.4752,7.4690,22.4100
+increased
+as the number of packets increasing the waiting time increased .
+the reason for these retransmission is that the Ack is not recieved due to loss of packets in the path so to get it back retransmission is used.

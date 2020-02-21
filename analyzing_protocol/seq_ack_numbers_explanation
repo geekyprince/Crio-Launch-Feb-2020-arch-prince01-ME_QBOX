@@ -1,0 +1,3 @@
+Each side of a TCP session starts out with a (relative) sequence number of zero. Likewise, the acknowledgement number is also zero, as there is not yet a complementary side of the conversation to acknowledge.
+then as next packet come sequence number is set to 0 acknowledgement is set to 1 as it is first packet
+then as teh packets are tranfered acknowledge number grows with size and sequence number is updated accordingly
