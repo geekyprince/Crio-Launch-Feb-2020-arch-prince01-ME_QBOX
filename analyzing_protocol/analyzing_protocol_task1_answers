@@ -1,13 +1,4 @@
 network layer
+no
 yes
-yes
-Pinging 13.126.112.136 with 32 bytes of data:
-Reply from 13.126.112.136: bytes=32 time=100ms TTL=49
-Reply from 13.126.112.136: bytes=32 time=136ms TTL=49
-Reply from 13.126.112.136: bytes=32 time=942ms TTL=49
-Reply from 13.126.112.136: bytes=32 time=369ms TTL=49
-
-Ping statistics for 13.126.112.136:
-    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 100ms, Maximum = 942ms, Average = 386ms
+bytes,time,TTL
